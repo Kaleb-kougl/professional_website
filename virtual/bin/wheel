@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/KalebK/Desktop/Coding/Web Development/my_website/virtual/bin/python3.7" "$0" "$@"
+'''exec' "/Users/KalebK/Desktop/Coding/Web Development/my_website/virtual/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
