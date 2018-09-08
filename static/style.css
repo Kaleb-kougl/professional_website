@@ -225,6 +225,10 @@ nav a:hover::before {
         display: none;
     }
 
+    body {
+        background-size: 768px auto;
+    }
+
     .main-container {
         top: 20px;
     }
@@ -236,6 +240,10 @@ nav a:hover::before {
     .welcome div {
         font-size: 24pt;
     }
+
+    #projects {
+        background-size: 768px auto;
+    }
   
     .profile-container {
       display: flex;
@@ -243,14 +251,12 @@ nav a:hover::before {
     }
   
     .profile {
-      margin-top: 40px;    
+      margin-top: 40px;
+      background-size: 768px auto;    
     }
   
     .project-label {
       font-size: 10pt;
     }
   
-    body {
-      background-size: auto;
-     }
 }
