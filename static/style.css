@@ -20,13 +20,11 @@ body {
 
 /* positions header at top of page and on top of everything */
 header {
-    /* background: #55d6aa; */
     background: #fffff2;
     top: 0;
     position: fixed;
     width: 100%;
     z-index: 1;
-    /* box-shadow: 2px 2px 5px 4px #444; */
 }
 
 /* clear fix */
@@ -126,10 +124,7 @@ nav a:hover::before {
 }
 
 
-/* TEST////////////////////////////////////////////////////////////////////////////////////////////////////// */
 #projects {
-    /* background: linear-gradient(115deg, #FF8144, #FFD1BB); */
-    /* background: linear-gradient(0deg, #444, #444); */
     background: url("https://github.com/Kaleb-kougl/personal_website/blob/master/Wooden_fence_closeup.jpg?raw=true");
     background-attachment: fixed;
     background-size: cover;
@@ -152,7 +147,6 @@ nav a:hover::before {
 }
 
 .project-container a {
-/*     border: 1px solid red; */
     width: 40%;
     margin: 5px;
     text-decoration: none;
@@ -162,7 +156,6 @@ nav a:hover::before {
     border: 1px solid white;
     text-align: center;
     color: black;
-    /* testing//////////////////////////////////////////////////////// */
     background-color: #fffff2;
     box-shadow: 2px 2px 5px 4px #444;
 }
@@ -171,7 +164,6 @@ nav a:hover::before {
 }
 
 #profiles {
-    /* background: linear-gradient(-115deg, #3D7FBF, #85B6E5); */
     background: linear-gradient(rgba(26, 26, 26, 0.7), rgba(26, 26, 26, 0.7)), url("https://github.com/Kaleb-kougl/personal_website/blob/master/work_area.jpg?raw=true");
     background-attachment: fixed;
     background-size: cover;
@@ -180,7 +172,6 @@ nav a:hover::before {
     padding: 10px;
     text-align: center;
     font-size: 26pt;
-    /* text-shadow: 2px 2px #444; */
     box-shadow: 2px 2px 5px 4px #444;
 }
 
@@ -197,7 +188,6 @@ nav a:hover::before {
 
 .profile {
     padding: 20px;
-    /* background-color: #FFC065; */
     background: url("https://github.com/Kaleb-kougl/personal_website/blob/master/wood-background.jpg?raw=true");
     background-size: cover;
     border-radius: 50%;
