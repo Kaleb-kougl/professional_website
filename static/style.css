@@ -7,7 +7,7 @@ html, body {
 body {
     margin: 0;
     background: linear-gradient(rgba(26, 26, 26, 0.7), rgba(26, 26, 26, 0.7)), 
-        url("https://c1.staticflickr.com/1/885/40823161604_62d4865f9d_b.jpg");
+        url("https://github.com/Kaleb-kougl/personal_website/blob/master/wood_desk_work_area.jpg?raw=true");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -130,7 +130,7 @@ nav a:hover::before {
 #projects {
     /* background: linear-gradient(115deg, #FF8144, #FFD1BB); */
     /* background: linear-gradient(0deg, #444, #444); */
-    background: url("https://upload.wikimedia.org/wikipedia/commons/4/45/Wooden_fence_closeup.jpg");
+    background: url("https://github.com/Kaleb-kougl/personal_website/blob/master/Wooden_fence_closeup.jpg?raw=true");
     background-attachment: fixed;
     background-size: cover;
     text-align: center;
@@ -172,7 +172,7 @@ nav a:hover::before {
 
 #profiles {
     /* background: linear-gradient(-115deg, #3D7FBF, #85B6E5); */
-    background: linear-gradient(rgba(26, 26, 26, 0.7), rgba(26, 26, 26, 0.7)), url("https://c1.staticflickr.com/5/4009/4255990333_78ef2e3119_b.jpg");
+    background: linear-gradient(rgba(26, 26, 26, 0.7), rgba(26, 26, 26, 0.7)), url("https://github.com/Kaleb-kougl/personal_website/blob/master/work_area.jpg?raw=true");
     background-attachment: fixed;
     background-size: cover;
     color: white;
@@ -198,7 +198,7 @@ nav a:hover::before {
 .profile {
     padding: 20px;
     /* background-color: #FFC065; */
-    background: url("https://libreshot.com/wp-content/uploads/2018/04/wood-background.jpg");
+    background: url("https://github.com/Kaleb-kougl/personal_website/blob/master/wood-background.jpg?raw=true");
     background-size: cover;
     border-radius: 50%;
     box-shadow: 2px 2px 5px 4px #444;
@@ -212,7 +212,7 @@ nav a:hover::before {
 }
 
 .profile:hover {
-    background: linear-gradient(rgba(26, 26, 26, 0.7), rgba(26, 26, 26, 0.7)), url("https://libreshot.com/wp-content/uploads/2018/04/wood-background.jpg");
+    background: linear-gradient(rgba(26, 26, 26, 0.7), rgba(26, 26, 26, 0.7)), url("https://github.com/Kaleb-kougl/personal_website/blob/master/wood-background.jpg?raw=true");
     background-size: cover;
 }
 
