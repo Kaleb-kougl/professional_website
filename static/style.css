@@ -210,13 +210,14 @@ nav a:hover::before {
     color: white;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 480px) {
     #navbar {
         display: none;
     }
 
     body {
-        background-size: 900px auto;
+        background-size: 640px 800px;
+        background-position-x: -60px;
     }
 
     .main-container {
@@ -232,7 +233,7 @@ nav a:hover::before {
     }
 
     #projects {
-        background-size: 768px auto;
+        background-size: 480px 100%;
     }
   
     .profile-container {
@@ -242,11 +243,15 @@ nav a:hover::before {
   
     .profile {
       margin-top: 40px;
-      background-size: 768px auto;    
+      background-size: 100% 100%;    
     }
   
     .project-label {
       font-size: 10pt;
     }
-  
+
+    #profiles {
+        background-size: 640px 800px;
+        background-position-x: -60px;
+    }
 }
